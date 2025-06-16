@@ -1,0 +1,4 @@
+# PASOS PARA CREAR UNA API
+
+# DEFINIR LA ESTRUCTUIRA DEL PROYECTO
+# ya instanciamos el server

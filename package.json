@@ -1,0 +1,19 @@
+{
+  "name": "zedmousar16062025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app"
+  },
+  "keywords": [],
+  "author": "Angello",
+  "license": "ISC",
+  "description": "Api rest connode js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "espress": "^0.0.0",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1"
+  }
+}
