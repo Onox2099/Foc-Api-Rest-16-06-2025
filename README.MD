@@ -1,20 +1,32 @@
-# Foc API Rest 16/06/2025  
+# 🔥 Foc API Rest - 16/06/2025
 
-## Descripción  
-Foc API Rest es una API desarrollada con Node.js y Express para gestionar usuarios y roles. Implementa validaciones con `express-validator`, middleware eficiente y separación modular de controladores.  
+## 📘 Description
 
-## Características  
-- Arquitectura modular con rutas, controladores y validaciones separadas.  
-- Validaciones robustas para garantizar la integridad de los datos.  
-- Middleware optimizado para manejar errores de manera eficiente.  
-- CRUD completo para la gestión de usuarios y roles.  
-- Uso de JSON para pruebas y simulación de operaciones.  
+Foc API Rest is a backend API built with Node.js and Express for managing users and roles. It features modular architecture, robust validation using `express-validator`, optimized middleware, and cleanly separated controller logic.
 
-## Tecnologías utilizadas  
-- Node.js - Motor backend eficiente.  
-- Express.js - Framework ágil para APIs REST.  
-- Express-validator - Validación de datos segura y optimizada.  
-- Cors - Permite integración sin restricciones con frontend.  
+---
 
-## Instalación  
-1. Clonar el repositorio  
+## 🚀 Features
+
+- Modular structure with separate routes, controllers, and validations  
+- Strong input validation to ensure data integrity  
+- Optimized middleware for efficient error handling  
+- Full CRUD operations for managing users and roles  
+- Uses JSON for testing and simulating operations
+
+---
+
+## 🛠️ Technologies Used
+
+- **Node.js** – High-performance backend runtime  
+- **Express.js** – Lightweight framework for building REST APIs  
+- **Express-validator** – Secure and optimized data validation  
+- **Cors** – Enables seamless integration with front-end clients
+
+---
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Tuteque-man/Foc-API-Rest.git
