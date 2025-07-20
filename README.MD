@@ -1,5 +1,5 @@
 # 🔥 Foc API Rest - 16/06/2025
-<img src="file:///C:/Users/user/Downloads/a.JPG" alt="RoleController.js code example" width="700" />
+<img src="https://github.com/user-attachments/assets/o5Z7y6G2dd6zJ7VJFpPhH.png" alt="RoleController.js code example" width="700" />
 ## 📘 Description
 
 Foc API Rest is a backend API built with Node.js and Express for managing users and roles. It features modular architecture, robust validation using `express-validator`, optimized middleware, and cleanly separated controller logic.
